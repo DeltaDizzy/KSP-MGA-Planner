@@ -12,6 +12,9 @@
 - name: Kerbol Origins
   folderName: ko
 
+- name: Snarkiverse
+  foldername: snarkiverse
+
 # Template:
 # - name: New Solar System
 #   folderName: new-solar-system
